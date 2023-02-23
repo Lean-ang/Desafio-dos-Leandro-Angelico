@@ -9,6 +9,7 @@ class ProductManager {
         try{
             const data = await fs.promises.readFile(this.path, 'utf-8');
             const dataJSON = JSON.parse(data);
+            if (data === "") return []
             return dataJSON;
         }
         catch (error) {

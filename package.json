@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "desafio-leandro-angelico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Desafio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lean-ang/Desafio-Leandro-Angelico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lean-ang/Desafio-Leandro-Angelico/issues"
+  },
+  "homepage": "https://github.com/Lean-ang/Desafio-Leandro-Angelico#readme"
+}
